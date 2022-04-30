@@ -9,7 +9,7 @@ const Socials = () => {
 		<div className='absolute w-full h-full top-0 bg-white/30 grid justify-center pt-4 md:pt-8 pb-16 gap-4'>
 			
 			<div className='grid justify-center '>
-				<h2 className='text=lg md:text-2xl font-bold uppercase'>We're social</h2>
+				<h2 className='text=lg md:text-2xl font-bold uppercase'>we're social</h2>
 			</div>
 
 			<div className='grid grid-cols-3'>
@@ -19,12 +19,12 @@ const Socials = () => {
 			</div>
 
 			<div className='grid justify-center'>
-				<h2 className='text-lg md:text-2xl font-bold uppercase text-orange-500'>Join our mailing list</h2>
+				<h2 className='text-lg md:text-2xl font-bold uppercase text-orange-500'>join our mailing list</h2>
 			</div>
 
 			<div>
 				<input type="email" placeholder='email' className='p-1 md:px-2 md:py-1 mr-3 outline-none'/>
-				<button className='bg-yellow-400 text-black p-1 md:px-4 md:py-1 ml-3'>SUBSCRIBE</button>
+				<button className='bg-yellow-400 text-black uppercase p-1 md:px-4 md:py-1 ml-3'>subscribe</button>
 			</div>
 		</div>
 	</div>
