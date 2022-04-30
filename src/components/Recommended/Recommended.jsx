@@ -4,7 +4,6 @@ import { SliderData } from "./SliderData";
 
 
 const NewRec = () => {
-	const length = SliderData.length
 
 	const settings = {
 		dots: true,
