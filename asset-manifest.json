@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/merch-project/static/css/main.9d91095c.css",
+    "main.js": "/merch-project/static/js/main.04eb01b5.js",
+    "static/media/footer.png": "/merch-project/static/media/footer.aba6d72e7ca72afa3d5e.png",
+    "static/media/posters.jpg": "/merch-project/static/media/posters.054aa9c2da17ef58fa69.jpg",
+    "static/media/inStocks.jpg": "/merch-project/static/media/inStocks.fc56dc7d2bd14d3ca204.jpg",
+    "static/media/header.webp": "/merch-project/static/media/header.f70026ea5150c8662e87.webp",
+    "static/media/discounts.jpg": "/merch-project/static/media/discounts.db361c0f801921c7c016.jpg",
+    "static/media/shirts.jpg": "/merch-project/static/media/shirts.77d20408c2f9a84d72dc.jpg",
+    "static/media/lowPrices.jpg": "/merch-project/static/media/lowPrices.c523b5218f02f49dea83.jpg",
+    "static/media/popups.jpg": "/merch-project/static/media/popups.d4db3550ccf8a8155d5c.jpg",
+    "static/media/exclusives.jpg": "/merch-project/static/media/exclusives.39a1f7f3002f30107a80.jpg",
+    "static/media/figures.jpg": "/merch-project/static/media/figures.5c4ff15b68a172694dae.jpg",
+    "static/media/slick.svg": "/merch-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/merch-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/merch-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/merch-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/merch-project/index.html",
+    "main.9d91095c.css.map": "/merch-project/static/css/main.9d91095c.css.map",
+    "main.04eb01b5.js.map": "/merch-project/static/js/main.04eb01b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d91095c.css",
+    "static/js/main.04eb01b5.js"
+  ]
+}
