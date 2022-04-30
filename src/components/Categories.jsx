@@ -16,49 +16,49 @@ const Categories = () => {
 			<div className='grid md:grid-cols-3 gap-x-3 gap-y-3'>
 				<div className='relative cursor-pointer'>
 					<img src={exclusivesImg} alt='/' className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Exculsives</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Exculsives</span>
 				</div>
 				<div className='relative cursor-pointer'>
 					<img src={discountsImg} alt='/'  className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Spring discounts</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Spring discounts</span>
 				</div>
 				<div className='relative cursor-pointer'>
 				    <img src={postersImg} alt='/'  className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>New posters</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>New posters</span>
 				</div>
 			</div>
 
 			<div className='grid md:grid-cols-2 gap-x-3 gap-y-3'>
 				<div className='relative cursor-pointer'>
 					<img src={shirtsImg} alt='/' className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Exculsive t-shirts</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Exculsive t-shirts</span>
 				</div>
 				<div className='relative cursor-pointer'>
 					<img src={figuresImg} alt='/'  className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>figures and more</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>figures and more</span>
 				</div>
 			</div>
 
             <div className='grid md:grid-cols-3 gap-x-3 gap-y-3'>
 				<div className='relative cursor-pointer'>
 					<img src={inStockImg} alt='/' className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Exculsives</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Exculsives</span>
 				</div>
 				<div className='relative cursor-pointer'>
 					<img src={popupImg} alt='/'  className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Spring discounts</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>Spring discounts</span>
 				</div>
 				<div className='relative cursor-pointer'>
 				    <img src={lowPricesImg} alt='/'  className='w-full h-full'/>
-                    <p className='absolute bottom-0 text-xl font-bold
-                            uppercase px-5 py-2 text-white bg-black/50 w-full'>New posters</p>
+                    <span className='absolute bottom-0 text-xl font-bold
+                            uppercase px-5 py-2 text-white bg-black/50 w-full'>New posters</span>
 				</div>
 			</div>
 

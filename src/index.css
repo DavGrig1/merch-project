@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  p {
+    margin-bottom: 1rem;
+    cursor: pointer;
+  }
+  ,
+  h2 {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    text-transform: uppercase;
+  }
+}

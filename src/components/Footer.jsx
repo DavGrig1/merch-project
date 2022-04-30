@@ -20,34 +20,34 @@ const Footer = () => {
 
   return (
 	<div className='w-full bg-black text-white grid md:grid-cols-3'>
-		<div className='mb-2'>
+		<div className='mb-2 md:my-2'>
 			<h2 className='text-yellow-400 cursor-pointer md:cursor-default' onClick={helpHandler}>HELP & CUSTOMER SERVICE</h2>
 			<div className={!help ? 'hidden md:block' : 'block'}>
-				<p className='mb-4'>FAQ</p>
-				<p className='mb-4'>Delayed Pre-Orders List</p>
-				<p className='mb-4'>Shipping & Returns</p>
-				<p className='mb-4'>Contact Us</p>
+				<p>FAQ</p>
+				<p>Delayed Pre-Orders List</p>
+				<p>Shipping & Returns</p>
+				<p>Contact Us</p>
 			</div>
 		</div>
 		
 		<div className='my-2'>
 			<h2 className='text-yellow-400 cursor-pointer md:cursor-default' onClick={aboutHandler}>ABOUT US</h2>
 			<div className={!about ? 'hidden md:block' : 'block'}>
-				<p className='mb-4'>Terms of Service</p>
-				<p className='mb-4'>Privacy Policy</p>
-				<p className='mb-4'>Do Not Sell My Personal Information</p>
-				<p className='mb-4'>About Us</p>
-				<p className='mb-4'>Cookie Consent Link</p>
-				<p className='mb-4'>Copyright Policy</p>
+				<p>Terms of Service</p>
+				<p>Privacy Policy</p>
+				<p>Do Not Sell My Personal Information</p>
+				<p>About Us</p>
+				<p>Cookie Consent Link</p>
+				<p>Copyright Policy</p>
 			</div>
 		</div>
 
 		<div className='my-2'>
 			<h2 className='text-yellow-400 cursor-pointer md:cursor-default' onClick={linksHandler}>HELPFUL LINKS</h2>
 			<div className={!links ? 'hidden md:block' : 'block'}>
-				<p className='mb-4'>Sign In</p>
-				<p className='mb-4'>Become a Premium Member</p>
-				<p className='mb-4'>Delayed Pre-Orders</p>
+				<p>Sign In</p>
+				<p>Become a Premium Member</p>
+				<p>Delayed Pre-Orders</p>
 			</div>
 		</div>
 	</div>
