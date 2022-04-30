@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
-import { SliderData } from "./components/Recommended/SliderData";
 import Categories from "./components/Categories";
 import Recommended from "./components/Recommended/Recommended";
 import Socials from "./components/Socials";
@@ -13,7 +12,7 @@ function App() {
       <Navbar />
       <Header />
       <Categories />
-      <Recommended slides={SliderData} />
+      <Recommended />
       <Socials />
       <Footer />
     </div>
