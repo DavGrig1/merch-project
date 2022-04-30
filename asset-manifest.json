@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/merch-project/static/css/main.9d91095c.css",
-    "main.js": "/merch-project/static/js/main.04eb01b5.js",
+    "main.css": "/merch-project/static/css/main.39167fcd.css",
+    "main.js": "/merch-project/static/js/main.29e81f2c.js",
     "static/media/footer.png": "/merch-project/static/media/footer.aba6d72e7ca72afa3d5e.png",
     "static/media/posters.jpg": "/merch-project/static/media/posters.054aa9c2da17ef58fa69.jpg",
     "static/media/inStocks.jpg": "/merch-project/static/media/inStocks.fc56dc7d2bd14d3ca204.jpg",
@@ -17,11 +17,11 @@
     "static/media/slick.ttf": "/merch-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/merch-project/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/merch-project/index.html",
-    "main.9d91095c.css.map": "/merch-project/static/css/main.9d91095c.css.map",
-    "main.04eb01b5.js.map": "/merch-project/static/js/main.04eb01b5.js.map"
+    "main.39167fcd.css.map": "/merch-project/static/css/main.39167fcd.css.map",
+    "main.29e81f2c.js.map": "/merch-project/static/js/main.29e81f2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d91095c.css",
-    "static/js/main.04eb01b5.js"
+    "static/css/main.39167fcd.css",
+    "static/js/main.29e81f2c.js"
   ]
 }
